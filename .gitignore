@@ -4,7 +4,6 @@
 *.log
 *.pyc
 *.swp
-*.route.dart
 .DS_Store
 .atom/
 .buildlog/
