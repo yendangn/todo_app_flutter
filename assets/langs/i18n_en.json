@@ -1,0 +1,19 @@
+{
+  "common_confirm_title": "Confirmation?",
+  "common_cancel_button": "Cancel",
+  "common_confirm_button": "Confirm",
+  "common_error_title": "Error!",
+  "common_close_button": "Close",
+  "common_success_title": "Success",
+  "common_re_try": "Retry",
+  "common_error_message": "Error",
+  "error_task_name_empty": "Please input task name",
+  "task_list_empty": "Your task is empty",
+  "add_task_button": "Add new task",
+  "add_task_success": "Add new task successfully",
+  "add_task_error": "Can not add new task",
+  "task_list_all_title": "All",
+  "task_list_new_title": "New",
+  "task_list_completed_title": "Completed",
+  "task_name": "Task name"
+}
