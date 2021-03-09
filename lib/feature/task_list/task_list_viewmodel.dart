@@ -55,6 +55,7 @@ class TaskListViewModel extends BaseRefreshAbleViewModel {
   void updateTaskStatus(
       int index, TaskStatus newStatus, TaskListScreenType type) async {
     var task = tasks[index];
+    task.status = newStatus;
 
     var count = await _taskRepo.updateTaskById(task);
 
